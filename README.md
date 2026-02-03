@@ -100,6 +100,3 @@ Projekt został stworzony jako zadanie laboratoryjne mające na celu:
 - Zarządzanie zasobami współdzielonymi i synchronizację wątków
 - Pomiar i porównanie wydajności różnych rozwiązań
 
-## Autor
-
-Projekt wykonany w ramach zajęć laboratoryjnych z programowania.
