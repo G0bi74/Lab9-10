@@ -8,7 +8,7 @@ To repozytorium zawiera implementację zadań programistycznych mających na cel
 
 Repozytorium składa się z trzech głównych modułów:
 
-### 1. Lab9 - Przetwarzanie obrazów z wykorzystaniem wielowątkowości
+### 1. lab9 - Przetwarzanie obrazów z wykorzystaniem wielowątkowości
 
 Aplikacja demonstrująca różne podejścia do przetwarzania obrazów z wykorzystaniem wielowątkowości w Javie.
 
